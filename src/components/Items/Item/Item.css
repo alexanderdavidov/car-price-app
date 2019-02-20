@@ -1,0 +1,38 @@
+.Item {
+  border-radius: 5px;
+  box-shadow: 0 0 4px rgba(92, 95, 100, .2);
+  padding: 20px;
+  background-color: #ffffff;
+  user-select: none;
+  margin: 20px 0;
+}
+
+.Title, .Attributes, .Description {
+  padding: 8px 0;
+}
+
+.Index {
+  font-size: 14px;
+  font-weight: 900;
+  color: #38b86f;
+  padding: 4px 0;
+}
+
+.Title {
+  font-size: 18px;
+  font-weight: 900;
+  color: #282828;
+}
+
+.Attributes {
+  font-size: 14px;
+  font-weight: 500;
+  color: #282828;
+}
+
+.Description {
+  font-size: 14px;
+  font-weight: 400;
+  color: #747474;
+}
+

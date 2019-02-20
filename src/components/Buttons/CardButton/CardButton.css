@@ -1,0 +1,11 @@
+.CardButton {
+  display: none;
+}
+
+@media (min-width: 1000px) {
+  .CardButton {
+    display: block;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+}
